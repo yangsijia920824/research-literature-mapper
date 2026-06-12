@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Literature Mapper"
+  short_description: "Map and triage literature into actionable research themes"
+  default_prompt: "Use $research-literature-mapper to classify a literature library, map research themes, and identify actionable directions."
